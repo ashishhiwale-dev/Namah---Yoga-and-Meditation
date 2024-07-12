@@ -14,7 +14,7 @@ export function DrawerDemo() {
         <DrawerContent>
           <div className="mx-auto w-full max-w-md">
             <DrawerHeader>
-              <DrawerTitle>Let's Connect!</DrawerTitle>
+              <DrawerTitle className="text-white">Let's Connect!</DrawerTitle>
               <DrawerDescription>We're here to help you on your journey. Drop us a message and we'll get back to you shortly.</DrawerDescription>
             </DrawerHeader>
             <div className="space-y-4">
